@@ -2,8 +2,6 @@
 
 Yo, welcome to the page. Name's Benjamin Bryant.
 
-![image of Benjamin Bryant](/images/profile_400x400)
-
 I'm a London-Based, Software Engineer, Speaker and Organizer of [London Gophers](https://www.meetup.com/londongophers/) and started my professional career back in 2018. I specialize mainly in Go and have skills in public speaking. 
 
 Currently I'm a freelance developer advocate 💻, looking to expand further into #devrel 🔭. 
