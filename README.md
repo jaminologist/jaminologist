@@ -13,4 +13,4 @@ If you're interested in my personality this talk [Go 3 Months In](https://www.yo
 - 🐙 [Github](https://github.com/jaminologist) (You're here)
 - 🐣 [Twitter](https://twitter.com/jaminologist)
 - 🕷️ [Website](https://www.jaminologist.com/)
-- 🎵 [Favourite Song, At The Moment](https://www.youtube.com/watch?v=6ugtWT_iNqw)
+- 🎵 [Favourite Song, At The Moment](https://www.youtube.com/watch?v=6aujIBa-dVA)
